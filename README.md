@@ -1,5 +1,4 @@
-# kMCpy_Tutorial_SAMBA2025
-kMCpy tutorial for SAMBA 2025
+# kMCpy tutorial for SAMBA 2025
 
 This repository contains a tutorial for using kMCpy, a kinetic Monte Carlo simulation package, presented at the SAMBA 2025. The tutorial covers the basics of setting up and running kMC simulations using kMCpy.
 
